@@ -1,6 +1,5 @@
 # Custom OBS Widget
 ![icon](icon.png)
-Custom obs widgets!
 
 ## Introduction
 This repository contains the source code for a custom widget designed for use with Open Broadcaster Software (OBS). The widget is built using HTML, CSS, and JavaScript, and is integrated with Webpack for efficient bundling. Tailwind CSS and PostCSS have been employed to enhance the styling capabilities. As this project is still in active development, some features may be in experimental stages.
